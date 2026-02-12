@@ -68,6 +68,8 @@ END
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
 
+<img width="1600" height="992" alt="image" src="https://github.com/user-attachments/assets/0cd12a5b-6abe-4b31-a44b-2e6056a05cc8" />
+
 ## 2. SUBTRACTION
 
 #### Algorithm
@@ -104,8 +106,10 @@ CODE ENDS
 END
 ```
 
+<img width="1532" height="892" alt="image" src="https://github.com/user-attachments/assets/a5d658dd-a7f0-4fb2-96b8-0ec5b46daf75" />
 
 #### Output Table
+
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
@@ -153,6 +157,7 @@ INT 21H
 CODE ENDS
 END
 ```
+<img width="1600" height="999" alt="image" src="https://github.com/user-attachments/assets/8e95e1fa-9099-45b3-b2d6-e05554e24c93" />
 
 #### Output Table
 
@@ -198,6 +203,7 @@ INT 21H
 CODE ENDS
 END
 ```
+<img width="1600" height="999" alt="image" src="https://github.com/user-attachments/assets/9da75d88-d774-43ea-8345-1e5674083383" />
 
 #### Output Table
 
